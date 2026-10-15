@@ -209,3 +209,15 @@ This repository is more than a collection of C++ programs. It is a record of my 
 ⭐ _If you are also learning C++ and Data Structures & Algorithms, feel free to follow along with my journey._
 
 **#CPlusPlus #DSA #DataStructures #Algorithms #ProblemSolving #CodingJourney #GitHub #ContinuousLearning**
+
+- Condition Pertaining to switch
+
+# Expression type
+
+# Unique case values
+
+# No range checking
+
+# Fall Through Bahaviour
+
+# Execution Order
